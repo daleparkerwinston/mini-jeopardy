@@ -1,0 +1,24 @@
+{
+  "name": "node-express-mongo-starter",
+  "version": "1.0.0",
+  "description": "Basic starter with Node, Express, and Mongoose",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daleparkerwinston/node-starter.git"
+  },
+  "author": "Dale Winston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daleparkerwinston/node-starter/issues"
+  },
+  "homepage": "https://github.com/daleparkerwinston/node-starter#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.2"
+  }
+}
